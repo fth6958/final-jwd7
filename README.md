@@ -24,3 +24,4 @@ Refer to the [rubric](https://docs.google.com/spreadsheets/d/1oKMVurjg8SW7cRU4-N
 [Check out a live example](https://final-project-jwd.netlify.app/) Note// Live example is missing having the date displayed on the page.
 
 <img src='task-app.JPG' height='500' />
+# final-jwd7
